@@ -1,4 +1,5 @@
-#Siege of Avalon : Open Source : Phaser + Electron
+Siege of Avalon : Open Source : Phaser + Electron
+-------
 
 The aim of this fork is to help game developers, who are proficient in JavaScript, to start on a new desktop engine that uses the game assets.
 
@@ -16,7 +17,8 @@ Since I will not have time to work on the engine, hopefully someone with more ti
 Screenshot:
 ![Screenshot](./screen.png)
 
-#Siege of Avalon : Open Source
+Siege of Avalon : Open Source
+-------
 
 The aim of this project is to port the original Win32 Delphi code, over to C# using MonoGame and XNA, so that it can be enjoyed by more people. When complete the plan is to release on Windows Phone, iOS, Android, MacOS, Linux and via PlayStation Suite (PS Vita, Xperia phones and eventually PS3).
 
