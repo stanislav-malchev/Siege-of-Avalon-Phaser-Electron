@@ -1,6 +1,17 @@
-#OS junk files
+# System and IDE files
 [Tt]humbs.db
 *.DS_Store
+.idea
+*.suo
+*.sublime-project
+*.sublime-workspace
+
+# Vendors
+node_modules/
+
+# Build
+dist/
+/npm-debug.log
 
 #Visual Studio files
 *.pidb
