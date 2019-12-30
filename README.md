@@ -3,7 +3,7 @@ Siege of Avalon : Open Source : Phaser + Electron
 
 The aim of this fork is to help game developers, who are proficient in JavaScript, to start on a new desktop engine that uses the game assets.
 
-I haven't even included Electron at this point. I think it should be added in the end. So far the fork includes only several lines of code that read the proprietary POX files and animate characters and monsters.
+I haven't even included Electron at this point. I think it should be added much later. So far the fork includes only several lines of code that read the POX files and animate characters and monsters.
 
 Since I will not have time to work on the engine, hopefully someone with more time and enthusiasm will use this fork to create the new [Freeablo](https://freeablo.org) or [FOnline](https://www.fonline-reloaded.net/).
 
